@@ -1,0 +1,15 @@
+D:\SKGMI\MyNetLabs\lab_3\task_2\bin\Debug\net7.0\task_2.exe
+D:\SKGMI\MyNetLabs\lab_3\task_2\bin\Debug\net7.0\task_2.deps.json
+D:\SKGMI\MyNetLabs\lab_3\task_2\bin\Debug\net7.0\task_2.runtimeconfig.json
+D:\SKGMI\MyNetLabs\lab_3\task_2\bin\Debug\net7.0\task_2.dll
+D:\SKGMI\MyNetLabs\lab_3\task_2\bin\Debug\net7.0\task_2.pdb
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.AssemblyInfoInputs.cache
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.AssemblyInfo.cs
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.csproj.CoreCompileInputs.cache
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.sourcelink.json
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.dll
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\refint\task_2.dll
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.pdb
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\task_2.genruntimeconfig.cache
+D:\SKGMI\MyNetLabs\lab_3\task_2\obj\Debug\net7.0\ref\task_2.dll
